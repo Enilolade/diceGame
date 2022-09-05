@@ -1,0 +1,31 @@
+body {
+    background-color: #393E46;
+    box-sizing: border-box;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+header {
+    margin: auto;
+    width: 70%;
+}
+h1 {
+    font-family:'Lobster', cursive;;
+    font-size: 3rem;
+}
+.dice-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: auto;
+    width: 50%;
+}
+button {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px #4ECCA3;
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem;
+    margin-top: 20px;
+    padding: 15px;
+    cursor: pointer;
+}
