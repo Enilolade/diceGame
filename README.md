@@ -5,3 +5,4 @@ This website is dice game that mimics two players rolling die to determine the w
 After structuring with html and styling with css, I added behaviour or function with js. 
 I generated two random numbers and assigned them to variables, I also used the random numbers generated to change the die images as the button is clicked.
 Then the winner is declared.
+The website refreshes or reloads after winner is declared
